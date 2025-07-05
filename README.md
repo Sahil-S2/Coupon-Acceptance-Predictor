@@ -116,7 +116,7 @@ Example SHAP Plot:
 ---
 
 ## Project Structure
-
+```
 coupon-acceptance-predictor/
 │
 ├── src/
@@ -130,7 +130,7 @@ coupon-acceptance-predictor/
 ├── requirements.txt
 ├── runtime.txt
 └── README.md
-
+```
 
 
 ---
