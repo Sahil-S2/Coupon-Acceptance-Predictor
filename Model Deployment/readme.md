@@ -1,1 +1,1 @@
-
+![Coupon_acceptance_predictor_app](Coupon_acceptance_predictor_app.jpg)
