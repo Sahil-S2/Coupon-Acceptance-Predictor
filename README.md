@@ -65,10 +65,10 @@ The dataset includes various customer profile and contextual information:
 
 📌 **Confusion Matrix**:
 
-
+```
 \[\[ 588  507]
 \[ 123 1319]]
-
+```
 ---
 
 ---
