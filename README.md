@@ -168,7 +168,7 @@ The Coupon Acceptance Predictor is a fully interpretable ML-powered tool that em
 ## 👤 Author
 
 **Sahil Jena**  
-📧 sahiljena.ds@gmail.com  
+📧 sahilswarajjena456@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-jena-067b1b301) | 🐙 [GitHub](https://github.com/Sahil-S2)
 
 ---
