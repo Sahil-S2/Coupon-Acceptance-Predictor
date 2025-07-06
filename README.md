@@ -175,4 +175,4 @@ The Coupon Acceptance Predictor is a fully interpretable ML-powered tool that em
 
 ## 📝 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [Apache License 2.O](LICENSE).
