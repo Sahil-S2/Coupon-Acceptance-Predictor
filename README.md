@@ -161,7 +161,7 @@ The Coupon Acceptance Predictor is a fully interpretable ML-powered tool that em
 
 - **Live Demo**: https://huggingface.co/spaces/Sahil-S2/coupon-acceptance-predictor  
 - **GitHub Repo**: https://github.com/Sahil-S2/coupon-acceptance-predictor  
-- **LinkedIn Post**: [See my LinkedIn update](https://www.linkedin.com/in/sahiljena/)
+- **LinkedIn Post**: [See my LinkedIn update](www.linkedin.com/in/sahil-jena-067b1b301)
 
 ---
 
